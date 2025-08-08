@@ -1,2 +1,2 @@
-# 035_CS2_commands
-CS2常用指令备份
+# 035_CS2_Resources
+CS2笔记本
