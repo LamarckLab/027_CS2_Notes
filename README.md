@@ -1,2 +1,2 @@
-# 035_CS2_Resources
+# 035_CS2_Notes
 CS2笔记本
