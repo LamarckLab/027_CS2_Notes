@@ -8,6 +8,7 @@
 ### 2 暗道--中门满封烟
 
 
-![暗道--中门满封烟](smoke_pics/demo3.png)
-![暗道--中门满封烟](smoke_pics/demo4.png)
+![暗道--中门满封烟](smoke_pics/smoke3.png)
+![暗道--中门满封烟](smoke_pics/smoke4.png)
+
 
