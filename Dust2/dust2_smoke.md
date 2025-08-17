@@ -24,5 +24,10 @@
 <img src="smoke_pics/smoke11.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke12.png" alt="匪家--Xbox烟" width="800">
 
+### 5 后花园--警家烟（左键跳投）
+
+<img src="smoke_pics/smoke13.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke14.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke15.png" alt="匪家--Xbox烟" width="800">
 
 
