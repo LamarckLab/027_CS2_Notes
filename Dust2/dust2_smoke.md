@@ -18,5 +18,10 @@
 <img src="smoke_pics/smoke08.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke09.png" alt="匪家--Xbox烟" width="800">
 
+### 4 后花园--B门烟（按住A，左键跳投）
+
+<img src="smoke_pics/smoke10.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke11.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke12.png" alt="匪家--Xbox烟" width="800">
 
 
