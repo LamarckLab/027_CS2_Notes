@@ -36,3 +36,8 @@
 <img src="smoke_pics/smoke17.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke18.png" alt="匪家--Xbox烟" width="800">
 
+### 6 A门--B门假打烟（按住A，左键跳投）
+
+<img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
