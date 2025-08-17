@@ -30,4 +30,9 @@
 <img src="smoke_pics/smoke14.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke15.png" alt="匪家--Xbox烟" width="800">
 
+### 5 后花园--狗洞烟（左键跳投）
+
+<img src="smoke_pics/smoke16.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke17.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke18.png" alt="匪家--Xbox烟" width="800">
 
