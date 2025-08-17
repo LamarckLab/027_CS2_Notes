@@ -12,6 +12,11 @@
 <img src="smoke_pics/smoke05.png" alt="暗道--中门满封烟" width="800">
 <img src="smoke_pics/smoke06.png" alt="暗道--中门满封烟" width="800">
 
+### 3 xbox--警家满封烟（蹲下瞄叉中心，站起来左键跳投）
+
+<img src="smoke_pics/smoke07.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke08.png" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke09.png" alt="匪家--Xbox烟" width="800">
 
 
 
