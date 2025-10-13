@@ -8,9 +8,9 @@
 
 ### 2 暗道--中门满封烟（左键直接投）
 
-<img src="smoke_pics/smoke04.png" alt="暗道--中门满封烟" width="800">
-<img src="smoke_pics/smoke05.png" alt="暗道--中门满封烟" width="800">
-<img src="smoke_pics/smoke06.png" alt="暗道--中门满封烟" width="800">
+<img src="../pics/dust2_smoke_04.jpg" alt="暗道--中门满封烟" width="800">
+<img src="../pics/dust2_smoke_05.jpg" alt="暗道--中门满封烟" width="800">
+<img src="../pics/dust2_smoke_06.jpg" alt="暗道--中门满封烟" width="800">
 
 ### 3 xbox--警家烟（蹲下瞄叉中心，站起来左键跳投）
 
@@ -41,6 +41,7 @@
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
 
 
 
