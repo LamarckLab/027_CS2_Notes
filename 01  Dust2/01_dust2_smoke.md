@@ -4,7 +4,7 @@
 
 <img src="../pics/dust2_smoke_01.jpg" alt="匪家--Xbox烟" width="800">
 <img src="../pics/dust2_smoke_02.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_03.jpg alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_03.jpg" alt="匪家--Xbox烟" width="800">
 
 ### 2 暗道--中门满封烟（左键直接投）
 
@@ -41,6 +41,7 @@
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
 
 
 
