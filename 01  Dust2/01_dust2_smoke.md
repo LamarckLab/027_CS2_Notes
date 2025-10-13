@@ -2,7 +2,7 @@
 
 ### 1 匪家--Xbox烟（左键跳投）
 
-<img src="smoke_pics/smoke01.png" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_01.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke02.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke03.png" alt="匪家--Xbox烟" width="800">
 
@@ -41,3 +41,4 @@
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
