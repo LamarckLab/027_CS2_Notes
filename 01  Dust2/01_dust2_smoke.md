@@ -32,17 +32,16 @@
 
 ### 6 后花园--警家烟（左键跳投）
 
-<img src="smoke_pics/smoke13.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke14.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke15.png" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_16.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_17.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_18.jpg" alt="匪家--Xbox烟" width="800">
 
-
-
-### 6 A门--B门假打烟（按住A，左键跳投）
+### 7 A门--B门假打烟（按住A，左键跳投）
 
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
 
 
 
