@@ -38,9 +38,10 @@
 
 ### 7 A门--B门假打烟（按住A，左键跳投）
 
-<img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_19.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_20.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_21.jpg" alt="匪家--Xbox烟" width="800">
+
 
 
 
