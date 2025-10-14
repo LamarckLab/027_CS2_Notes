@@ -14,9 +14,9 @@
 
 ### 3 xbox--警家烟（蹲下瞄叉中心，站起来左键跳投）
 
-<img src="smoke_pics/smoke07.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke08.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke09.png" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_07.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_08.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_09.jpg" alt="匪家--Xbox烟" width="800">
 
 ### 4 后花园--B门烟（按住A，左键跳投）
 
@@ -41,6 +41,7 @@
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
 
 
 
