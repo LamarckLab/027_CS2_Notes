@@ -20,9 +20,16 @@
 
 ### 4 后花园--B门烟（按住A，左键跳投）
 
-<img src="smoke_pics/smoke10.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke11.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke12.png" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_10.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_11.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_12.jpg" alt="匪家--Xbox烟" width="800">
+
+### 5 后花园--狗洞烟（左键跳投）
+
+<img src="../pics/dust2_smoke_09.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_09.jpg" alt="匪家--Xbox烟" width="800">
+<img src="smoke_pics/smoke18.png" alt="匪家--Xbox烟" width="800">
+
 
 ### 5 后花园--警家烟（左键跳投）
 
@@ -30,17 +37,14 @@
 <img src="smoke_pics/smoke14.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke15.png" alt="匪家--Xbox烟" width="800">
 
-### 5 后花园--狗洞烟（左键跳投）
 
-<img src="smoke_pics/smoke16.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke17.png" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke18.png" alt="匪家--Xbox烟" width="800">
 
 ### 6 A门--B门假打烟（按住A，左键跳投）
 
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
 
 
 
