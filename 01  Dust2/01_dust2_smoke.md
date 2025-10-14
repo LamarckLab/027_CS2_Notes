@@ -26,12 +26,11 @@
 
 ### 5 后花园--狗洞烟（左键跳投）
 
-<img src="../pics/dust2_smoke_09.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_09.jpg" alt="匪家--Xbox烟" width="800">
-<img src="smoke_pics/smoke18.png" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_13.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_14.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_15.jpg" alt="匪家--Xbox烟" width="800">
 
-
-### 5 后花园--警家烟（左键跳投）
+### 6 后花园--警家烟（左键跳投）
 
 <img src="smoke_pics/smoke13.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke14.png" alt="匪家--Xbox烟" width="800">
@@ -44,6 +43,7 @@
 <img src="smoke_pics/smoke19.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke20.png" alt="匪家--Xbox烟" width="800">
 <img src="smoke_pics/smoke21.png" alt="匪家--Xbox烟" width="800">
+
 
 
 
