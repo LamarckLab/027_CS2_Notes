@@ -48,6 +48,11 @@
 <img src="../pics/dust2_smoke_23.jpg" alt="匪家--Xbox烟" width="800">
 <img src="../pics/dust2_smoke_24.jpg" alt="匪家--Xbox烟" width="800">
 
+### 09 Xbox--中门瀑布烟（左键直接投）
+
+<img src="../pics/dust2_smoke_22.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_23.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_24.jpg" alt="匪家--Xbox烟" width="800">
 
 
 
