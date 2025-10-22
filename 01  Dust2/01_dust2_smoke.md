@@ -42,6 +42,11 @@
 <img src="../pics/dust2_smoke_20.jpg" alt="匪家--Xbox烟" width="800">
 <img src="../pics/dust2_smoke_21.jpg" alt="匪家--Xbox烟" width="800">
 
+### 8 沙地--a小隔断烟（双键跳投）
+
+<img src="../pics/dust2_smoke_22.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_23.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_24.jpg" alt="匪家--Xbox烟" width="800">
 
 
 
