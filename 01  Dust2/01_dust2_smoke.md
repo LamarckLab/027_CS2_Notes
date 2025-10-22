@@ -32,27 +32,28 @@
 
 ### 06 后花园--警家烟（左键跳投）
 
-<img src="../pics/dust2_smoke_16.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_17.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_18.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_16.jpg" alt="后花园--警家烟" width="800">
+<img src="../pics/dust2_smoke_17.jpg" alt="后花园--警家烟" width="800">
+<img src="../pics/dust2_smoke_18.jpg" alt="后花园--警家烟" width="800">
 
 ### 07 A门--B门假打烟（按住A和W，左键跳投）
 
-<img src="../pics/dust2_smoke_19.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_20.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_21.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_19.jpg" alt="A门--B门假打烟" width="800">
+<img src="../pics/dust2_smoke_20.jpg" alt="A门--B门假打烟" width="800">
+<img src="../pics/dust2_smoke_21.jpg" alt="A门--B门假打烟" width="800">
 
 ### 08 沙地--a小隔断烟（双键跳投）
 
-<img src="../pics/dust2_smoke_22.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_23.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_24.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_22.jpg" alt="沙地--a小隔断烟" width="800">
+<img src="../pics/dust2_smoke_23.jpg" alt="沙地--a小隔断烟" width="800">
+<img src="../pics/dust2_smoke_24.jpg" alt="沙地--a小隔断烟" width="800">
 
 ### 09 Xbox--中门瀑布烟（左键直接投）
 
-<img src="../pics/dust2_smoke_25.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_26.jpg" alt="匪家--Xbox烟" width="800">
-<img src="../pics/dust2_smoke_27.jpg" alt="匪家--Xbox烟" width="800">
+<img src="../pics/dust2_smoke_25.jpg" alt="Xbox--中门瀑布烟" width="800">
+<img src="../pics/dust2_smoke_26.jpg" alt="Xbox--中门瀑布烟" width="800">
+<img src="../pics/dust2_smoke_27.jpg" alt="Xbox--中门瀑布烟" width="800">
+
 
 
 
