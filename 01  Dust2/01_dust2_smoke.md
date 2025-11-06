@@ -60,6 +60,11 @@
 <img src="../pics/dust2_smoke_29.jpg" alt="警家L位--A门快烟" width="800">
 <img src="../pics/dust2_smoke_30.jpg" alt="警家L位--A门快烟" width="800">
 
+### 11 警家L位外侧--A大隔断烟（左键直接投）
+
+<img src="../pics/dust2_smoke_31.jpg" alt="警家L位外侧--A大隔断烟" width="800">
+<img src="../pics/dust2_smoke_32.jpg" alt="警家L位外侧--A大隔断烟" width="800">
+<img src="../pics/dust2_smoke_33.jpg" alt="警家L位外侧--A大隔断烟" width="800">
 
 
 
