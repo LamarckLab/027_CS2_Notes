@@ -54,6 +54,11 @@
 <img src="../pics/dust2_smoke_26.jpg" alt="Xbox--中门瀑布烟" width="800">
 <img src="../pics/dust2_smoke_27.jpg" alt="Xbox--中门瀑布烟" width="800">
 
+### 10 警家L位--A门快烟（蹲下描点，蹲下跳投）
+
+<img src="../pics/dust2_smoke_28.jpg" alt="警家L位--A门快烟" width="800">
+<img src="../pics/dust2_smoke_29.jpg" alt="警家L位--A门快烟" width="800">
+<img src="../pics/dust2_smoke_30.jpg" alt="警家L位--A门快烟" width="800">
 
 
 
