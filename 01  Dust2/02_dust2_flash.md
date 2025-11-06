@@ -10,6 +10,10 @@
 <img src="../pics/dust2_flash_03.jpg" alt="警家--A大反清闪" width="800">
 <img src="../pics/dust2_flash_04.jpg" alt="警家--A大反清闪" width="800">
 
+### 3 A大--A门自助闪（左键跳投）
+
+<img src="../pics/dust2_flash_05.jpg" alt="A大--A门自助闪" width="800">
+<img src="../pics/dust2_flash_06.jpg" alt="A大--A门自助闪" width="800">
 
 
 
