@@ -15,11 +15,15 @@
 <img src="../pics/dust2_flash_05.jpg" alt="A大--A门自助闪" width="800">
 <img src="../pics/dust2_flash_06.jpg" alt="A大--A门自助闪" width="800">
 
-### 4 警家L位--A门闪（1分49秒出手，左键跳投）
+### 4 警家L位--A门闪（1分49秒出手，左键跳投）- 烟闪闪-2
 
 <img src="../pics/dust2_flash_07.jpg" alt="警家L位--A门闪" width="800">
 <img src="../pics/dust2_flash_08.jpg" alt="警家L位--A门闪" width="800">
 
+### 5 警家过点--A门闪（左键直接投）- 烟闪闪-3
+
+<img src="../pics/dust2_flash_07.jpg" alt="警家L位--A门闪" width="800">
+<img src="../pics/dust2_flash_08.jpg" alt="警家L位--A门闪" width="800">
 
 
 
