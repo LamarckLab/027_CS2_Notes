@@ -22,8 +22,9 @@
 
 ### 5 警家过点--A门闪（左键直接投）- 烟闪闪-3
 
-<img src="../pics/dust2_flash_07.jpg" alt="警家L位--A门闪" width="800">
-<img src="../pics/dust2_flash_08.jpg" alt="警家L位--A门闪" width="800">
+<img src="../pics/dust2_flash_09.jpg" alt="警家过点--A门闪" width="800">
+<img src="../pics/dust2_flash_10.jpg" alt="警家过点--A门闪" width="800">
+
 
 
 
