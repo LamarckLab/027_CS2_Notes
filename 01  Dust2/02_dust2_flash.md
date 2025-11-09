@@ -30,15 +30,16 @@
 <img src="../pics/dust2_flash_11.jpg" alt="A小光影交界处--A大闪" width="800">
 <img src="../pics/dust2_flash_12.jpg" alt="A小光影交界处--A大闪" width="800">
 
-### 07 A小拐角--中路闪（左键直接投）
+### 07 A小拐角--中路闪（双键直接投）
 
 <img src="../pics/dust2_flash_13.jpg" alt="A小拐角--中路闪" width="800">
 <img src="../pics/dust2_flash_14.jpg" alt="A小拐角--中路闪" width="800">
 
-### 08 A小卷帘门--中路闪（左键直接投）
+### 08 A小卷帘门--中路闪（左键跳投）
 
 <img src="../pics/dust2_flash_15.jpg" alt="A小卷帘门--中路闪" width="800">
 <img src="../pics/dust2_flash_16.jpg" alt="A小卷帘门--中路闪" width="800">
+
 
 
 
