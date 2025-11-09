@@ -25,6 +25,10 @@
 <img src="../pics/dust2_flash_09.jpg" alt="警家过点--A门闪" width="800">
 <img src="../pics/dust2_flash_10.jpg" alt="警家过点--A门闪" width="800">
 
+### 6 A小光影交界处--A大闪（左键直接投）
+
+<img src="../pics/dust2_flash_11.jpg" alt="A小光影交界处--A大闪" width="800">
+<img src="../pics/dust2_flash_12.jpg" alt="A小光影交界处--A大闪" width="800">
 
 
 
