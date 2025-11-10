@@ -45,6 +45,11 @@
 <img src="../pics/dust2_flash_17.jpg" alt="头皮位--A小闪" width="800">
 <img src="../pics/dust2_flash_18.jpg" alt="头皮位--A小闪" width="800">
 
+### 10 沙地--中路闪（W+跳投）
+
+<img src="../pics/dust2_flash_19.jpg" alt="沙地--中路闪" width="800">
+<img src="../pics/dust2_flash_20.jpg" alt="沙地--中路闪" width="800">
+
 
 
 
