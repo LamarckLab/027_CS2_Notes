@@ -11,3 +11,9 @@
 <img src="../pics/dust2_fire_04.jpg" alt="头皮位--A小凹槽火" width="800">
 <img src="../pics/dust2_fire_05.jpg" alt="头皮位--A小凹槽火" width="800">
 <img src="../pics/dust2_fire_06.jpg" alt="头皮位--A小凹槽火" width="800">
+
+### 03 中门凹槽--A小火（左键跳投）
+
+<img src="../pics/dust2_fire_07.jpg" alt="中门凹槽--A小火" width="800">
+<img src="../pics/dust2_fire_08.jpg" alt="中门凹槽--A小火" width="800">
+<img src="../pics/dust2_fire_09.jpg" alt="中门凹槽--A小火" width="800">
