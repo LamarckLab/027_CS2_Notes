@@ -40,6 +40,10 @@
 <img src="../pics/dust2_flash_15.jpg" alt="A小卷帘门--中路闪" width="800">
 <img src="../pics/dust2_flash_16.jpg" alt="A小卷帘门--中路闪" width="800">
 
+### 09 头皮位--A小闪（左键直接投）
+
+<img src="../pics/dust2_flash_17.jpg" alt="头皮位--A小闪" width="800">
+<img src="../pics/dust2_flash_18.jpg" alt="头皮位--A小闪" width="800">
 
 
 
