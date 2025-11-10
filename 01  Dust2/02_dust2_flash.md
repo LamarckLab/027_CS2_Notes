@@ -50,6 +50,10 @@
 <img src="../pics/dust2_flash_19.jpg" alt="沙地--中路闪" width="800">
 <img src="../pics/dust2_flash_20.jpg" alt="沙地--中路闪" width="800">
 
+### 11 中路--匪口闪（双键直接投）
+
+<img src="../pics/dust2_flash_21.jpg" alt="中路--匪口闪" width="800">
+<img src="../pics/dust2_flash_22.jpg" alt="中路--匪口闪" width="800">
 
 
 
