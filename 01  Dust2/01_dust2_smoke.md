@@ -15,10 +15,10 @@
 <img src="../pics/dust2_smoke_08.jpg" alt="xbox--警家烟" width="800">
 <img src="../pics/dust2_smoke_09.jpg" alt="xbox--警家烟" width="800">
 
-### 04 后花园--B门烟（按住A，左键跳投）
-<img src="../pics/dust2_smoke_10.jpg" alt="后花园--B门烟" width="800">
-<img src="../pics/dust2_smoke_11.jpg" alt="后花园--B门烟" width="800">
-<img src="../pics/dust2_smoke_12.jpg" alt="后花园--B门烟" width="800">
+### 04 后花园--B门烟-1（按住A，左键跳投）
+<img src="../pics/dust2_smoke_10.jpg" alt="后花园--B门烟-1" width="800">
+<img src="../pics/dust2_smoke_11.jpg" alt="后花园--B门烟-1" width="800">
+<img src="../pics/dust2_smoke_12.jpg" alt="后花园--B门烟-1" width="800">
 
 ### 05 后花园--狗洞烟（左键跳投）
 <img src="../pics/dust2_smoke_13.jpg" alt="后花园--狗洞烟" width="800">
@@ -65,10 +65,11 @@
 <img src="../pics/dust2_smoke_38.jpg" alt="蓝箱--过点烟" width="800">
 <img src="../pics/dust2_smoke_39.jpg" alt="蓝箱--过点烟" width="800">
 
-### 14 后花园--B门烟（左键跳投）
-<img src="../pics/dust2_smoke_40.jpg" alt="后花园--B门烟" width="800">
-<img src="../pics/dust2_smoke_41.jpg" alt="后花园--B门烟" width="800">
-<img src="../pics/dust2_smoke_42.jpg" alt="后花园--B门烟" width="800">
+### 14 后花园--B门烟-2（左键跳投）
+<img src="../pics/dust2_smoke_40.jpg" alt="后花园--B门烟-2" width="800">
+<img src="../pics/dust2_smoke_41.jpg" alt="后花园--B门烟-2" width="800">
+<img src="../pics/dust2_smoke_42.jpg" alt="后花园--B门烟-2" width="800">
+
 
 
 
