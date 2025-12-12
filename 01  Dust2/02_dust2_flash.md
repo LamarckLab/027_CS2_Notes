@@ -48,6 +48,12 @@
 <img src="../pics/dust2_flash_23.jpg" alt="Xbox--出中门闪" width="800">
 <img src="../pics/dust2_flash_24.jpg" alt="Xbox--出中门闪" width="800">
 
+### 13 B2--B包闪-1（左键跳投）
+<img src="../pics/dust2_flash_25.jpg" alt="B2--B包闪-1" width="800">
+<img src="../pics/dust2_flash_26.jpg" alt="B2--B包闪-1" width="800">
 
+### 14 B2--B包闪-2（左键跳投）
+<img src="../pics/dust2_flash_27.jpg" alt="B2--B包闪-2" width="800">
+<img src="../pics/dust2_flash_28.jpg" alt="B2--B包闪-2" width="800">
 
 
