@@ -44,6 +44,9 @@
 <img src="../pics/dust2_flash_21.jpg" alt="中路--匪口闪" width="800">
 <img src="../pics/dust2_flash_22.jpg" alt="中路--匪口闪" width="800">
 
+### 12 Xbox--出中门闪（双键直接投）
+<img src="../pics/dust2_flash_23.jpg" alt="Xbox--出中门闪" width="800">
+<img src="../pics/dust2_flash_24.jpg" alt="Xbox--出中门闪" width="800">
 
 
 
