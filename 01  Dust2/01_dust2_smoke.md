@@ -60,7 +60,7 @@
 <img src="../pics/dust2_smoke_35.jpg" alt="头皮位--A小烟" width="800">
 <img src="../pics/dust2_smoke_36.jpg" alt="头皮位--A小烟" width="800">
 
-### 13 蓝箱--过点烟（左键直接投）
+### 13 蓝箱--过点烟（左键跳投）
 <img src="../pics/dust2_smoke_37.jpg" alt="蓝箱--过点烟" width="800">
 <img src="../pics/dust2_smoke_38.jpg" alt="蓝箱--过点烟" width="800">
 <img src="../pics/dust2_smoke_39.jpg" alt="蓝箱--过点烟" width="800">
@@ -69,6 +69,7 @@
 <img src="../pics/dust2_smoke_40.jpg" alt="后花园--B门烟" width="800">
 <img src="../pics/dust2_smoke_41.jpg" alt="后花园--B门烟" width="800">
 <img src="../pics/dust2_smoke_42.jpg" alt="后花园--B门烟" width="800">
+
 
 
 
