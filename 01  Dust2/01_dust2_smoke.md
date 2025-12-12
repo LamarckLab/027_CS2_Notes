@@ -70,6 +70,10 @@
 <img src="../pics/dust2_smoke_41.jpg" alt="后花园--B门烟-2" width="800">
 <img src="../pics/dust2_smoke_42.jpg" alt="后花园--B门烟-2" width="800">
 
+### 15 B通--B门烟（走半步跳投）
+<img src="../pics/dust2_smoke_43.jpg" alt="B通--B门烟" width="800">
+<img src="../pics/dust2_smoke_44.jpg" alt="B通--B门烟" width="800">
+<img src="../pics/dust2_smoke_45.jpg" alt="B通--B门烟" width="800">
 
 
 
