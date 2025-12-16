@@ -12,5 +12,8 @@
 <img src="../pics/mirage_flash_05.jpg" alt="A2楼下--A1反清闪-1" width="800">
 <img src="../pics/mirage_flash_06.jpg" alt="A2楼下--A1反清闪-1" width="800">
 
+### 04 A2楼下--A1反清闪-2（双键直接投）
+<img src="../pics/mirage_flash_07.jpg" alt="A2楼下--A1反清闪-2" width="800">
+<img src="../pics/mirage_flash_08.jpg" alt="A2楼下--A1反清闪-2" width="800">
 
 
