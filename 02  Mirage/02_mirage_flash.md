@@ -16,7 +16,10 @@
 <img src="../pics/mirage_flash_07.jpg" alt="A2楼下--A1反清闪-2" width="800">
 <img src="../pics/mirage_flash_08.jpg" alt="A2楼下--A1反清闪-2" width="800">
 
-### 05 警家--中路闪（左键跳投）
-<img src="../pics/mirage_flash_09.jpg" alt="警家--中路闪" width="800">
-<img src="../pics/mirage_flash_10.jpg" alt="警家--中路闪" width="800">
+### 05 斜坡垃圾桶--A包点反清闪（左键直接投）
+<img src="../pics/mirage_flash_09.jpg" alt="斜坡垃圾桶--A包点反清闪" width="800">
+<img src="../pics/mirage_flash_10.jpg" alt="斜坡垃圾桶--A包点反清闪" width="800">
 
+### 06 警家--中路闪（左键跳投）
+<img src="../pics/mirage_flash_11.jpg" alt="警家--中路闪" width="800">
+<img src="../pics/mirage_flash_12.jpg" alt="警家--中路闪" width="800">
