@@ -23,3 +23,7 @@
 ### 06 警家--中路闪（左键跳投）
 <img src="../pics/mirage_flash_11.jpg" alt="警家--中路闪" width="800">
 <img src="../pics/mirage_flash_12.jpg" alt="警家--中路闪" width="800">
+
+### 07 VIP--中路反清闪（蹲下右键跳投）
+<img src="../pics/mirage_flash_13.jpg" alt="VIP--中路反清闪" width="800">
+<img src="../pics/mirage_flash_14.jpg" alt="VIP--中路反清闪" width="800">
