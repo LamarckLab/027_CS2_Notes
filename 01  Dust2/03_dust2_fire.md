@@ -20,7 +20,3 @@
 <img src="../pics/dust2_fire_11.jpg" alt="A门外--蓝车满烧火" width="800">
 <img src="../pics/dust2_fire_12.jpg" alt="A门外--蓝车满烧火" width="800">
 
-### 05 Xbox--中门凹槽火（左键直接投）
-<img src="../pics/dust2_fire_13.jpg" alt="Xbox--中门凹槽火" width="800">
-<img src="../pics/dust2_fire_14.jpg" alt="Xbox--中门凹槽火" width="800">
-<img src="../pics/dust2_fire_15.jpg" alt="Xbox--中门凹槽火" width="800">

@@ -4,7 +4,7 @@
 <img src="../pics/dust2_flash_01.jpg" alt="匪家--抢A大闪" width="800">
 <img src="../pics/dust2_flash_02.jpg" alt="匪家--抢A大闪" width="800">
 
-### 02 警家--A大反清闪（双键直接投）
+### 02 警家过点--A大反清闪（双键直接投）
 <img src="../pics/dust2_flash_03.jpg" alt="警家--A大反清闪" width="800">
 <img src="../pics/dust2_flash_04.jpg" alt="警家--A大反清闪" width="800">
 
@@ -36,7 +36,7 @@
 <img src="../pics/dust2_flash_17.jpg" alt="头皮位--A小闪" width="800">
 <img src="../pics/dust2_flash_18.jpg" alt="头皮位--A小闪" width="800">
 
-### 10 沙地--中路闪（W+跳投）
+### 10 沙地--中路闪（W+左键跳投）
 <img src="../pics/dust2_flash_19.jpg" alt="沙地--中路闪" width="800">
 <img src="../pics/dust2_flash_20.jpg" alt="沙地--中路闪" width="800">
 
@@ -48,12 +48,6 @@
 <img src="../pics/dust2_flash_23.jpg" alt="Xbox--出中门闪" width="800">
 <img src="../pics/dust2_flash_24.jpg" alt="Xbox--出中门闪" width="800">
 
-### 13 B2--B包闪-1（左键跳投）
+### 13 B2--B包闪（左键跳投）
 <img src="../pics/dust2_flash_25.jpg" alt="B2--B包闪-1" width="800">
 <img src="../pics/dust2_flash_26.jpg" alt="B2--B包闪-1" width="800">
-
-### 14 B2--B包闪-2（左键跳投）
-<img src="../pics/dust2_flash_27.jpg" alt="B2--B包闪-2" width="800">
-<img src="../pics/dust2_flash_28.jpg" alt="B2--B包闪-2" width="800">
-
-
