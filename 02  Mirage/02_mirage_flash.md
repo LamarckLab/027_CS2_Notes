@@ -1,29 +1,29 @@
 # Mirage Flash
 
 ### 01 A包点--匪口闪（走一步左键跳投）
-<img src="../pics/mirage_flash_01.jpg" alt="A包点--匪口闪" width="800">
-<img src="../pics/mirage_flash_02.jpg" alt="A包点--匪口闪" width="800">
+<img src="pictures/mirage_flash_01.jpg" alt="A包点--匪口闪" width="800">
+<img src="pictures/mirage_flash_02.jpg" alt="A包点--匪口闪" width="800">
 
 ### 02 A包点--中路闪（静步走半步左键跳投）
-<img src="../pics/mirage_flash_03.jpg" alt="A包点--中路闪" width="800">
-<img src="../pics/mirage_flash_04.jpg" alt="A包点--中路闪" width="800">
+<img src="pictures/mirage_flash_03.jpg" alt="A包点--中路闪" width="800">
+<img src="pictures/mirage_flash_04.jpg" alt="A包点--中路闪" width="800">
 
 ### 03 A2楼下--A1反清闪-1（左键跳投）
-<img src="../pics/mirage_flash_05.jpg" alt="A2楼下--A1反清闪-1" width="800">
-<img src="../pics/mirage_flash_06.jpg" alt="A2楼下--A1反清闪-1" width="800">
+<img src="pictures/mirage_flash_05.jpg" alt="A2楼下--A1反清闪-1" width="800">
+<img src="pictures/mirage_flash_06.jpg" alt="A2楼下--A1反清闪-1" width="800">
 
 ### 04 A2楼下--A1反清闪-2（双键直接投）
-<img src="../pics/mirage_flash_07.jpg" alt="A2楼下--A1反清闪-2" width="800">
-<img src="../pics/mirage_flash_08.jpg" alt="A2楼下--A1反清闪-2" width="800">
+<img src="pictures/mirage_flash_07.jpg" alt="A2楼下--A1反清闪-2" width="800">
+<img src="pictures/mirage_flash_08.jpg" alt="A2楼下--A1反清闪-2" width="800">
 
 ### 05 斜坡垃圾桶--A包点反清闪（左键直接投）
-<img src="../pics/mirage_flash_09.jpg" alt="斜坡垃圾桶--A包点反清闪" width="800">
-<img src="../pics/mirage_flash_10.jpg" alt="斜坡垃圾桶--A包点反清闪" width="800">
+<img src="pictures/mirage_flash_09.jpg" alt="斜坡垃圾桶--A包点反清闪" width="800">
+<img src="pictures/mirage_flash_10.jpg" alt="斜坡垃圾桶--A包点反清闪" width="800">
 
 ### 06 警家--中路闪（左键跳投）
-<img src="../pics/mirage_flash_11.jpg" alt="警家--中路闪" width="800">
-<img src="../pics/mirage_flash_12.jpg" alt="警家--中路闪" width="800">
+<img src="pictures/mirage_flash_11.jpg" alt="警家--中路闪" width="800">
+<img src="pictures/mirage_flash_12.jpg" alt="警家--中路闪" width="800">
 
 ### 07 VIP--中路反清闪（蹲下右键跳投）
-<img src="../pics/mirage_flash_13.jpg" alt="VIP--中路反清闪" width="800">
-<img src="../pics/mirage_flash_14.jpg" alt="VIP--中路反清闪" width="800">
+<img src="pictures/mirage_flash_13.jpg" alt="VIP--中路反清闪" width="800">
+<img src="pictures/mirage_flash_14.jpg" alt="VIP--中路反清闪" width="800">
