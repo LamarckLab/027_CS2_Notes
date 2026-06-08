@@ -20,3 +20,12 @@
 <img src="../pics/dust2_fire_11.jpg" alt="A门外--蓝车满烧火" width="800">
 <img src="../pics/dust2_fire_12.jpg" alt="A门外--蓝车满烧火" width="800">
 
+### 05 A大过点附近--二箱后侧火（走半步左键投）
+<img src="../pics/dust2_fire_13.jpg" alt="A大过点附近--二箱后侧火" width="800">
+<img src="../pics/dust2_fire_14.jpg" alt="A大过点附近--二箱后侧火" width="800">
+<img src="../pics/dust2_fire_15.jpg" alt="A大过点附近--二箱后侧火" width="800">
+
+### 06 A大过点附近--忍者位火（走半步左键投）
+<img src="../pics/dust2_fire_16.jpg" alt="A大过点附近--忍者位火" width="800">
+<img src="../pics/dust2_fire_17.jpg" alt="A大过点附近--忍者位火" width="800">
+<img src="../pics/dust2_fire_18.jpg" alt="A大过点附近--忍者位火" width="800">
