@@ -29,3 +29,8 @@
 <img src="../pics/dust2_fire_16.jpg" alt="A大过点附近--忍者位火" width="800">
 <img src="../pics/dust2_fire_17.jpg" alt="A大过点附近--忍者位火" width="800">
 <img src="../pics/dust2_fire_18.jpg" alt="A大过点附近--忍者位火" width="800">
+
+### 06 A小楼梯--A包点火（走一步左键投）
+<img src="../pics/dust2_fire_19.jpg" alt="A小楼梯--A包点火" width="800">
+<img src="../pics/dust2_fire_20.jpg" alt="A小楼梯--A包点火" width="800">
+<img src="../pics/dust2_fire_21.jpg" alt="A小楼梯--A包点火" width="800">

@@ -55,3 +55,27 @@
 ### 14 A门油桶--A包闪（左键跳投）
 <img src="../pics/dust2_flash_27.jpg" alt="A门油桶--A包闪" width="800">
 <img src="../pics/dust2_flash_28.jpg" alt="A门油桶--A包闪" width="800">
+
+### 15 匪口--中路闪（跑到红砖右键跳投）
+<img src="../pics/dust2_flash_29.jpg" alt="匪口--中路闪" width="800">
+<img src="../pics/dust2_flash_30.jpg" alt="匪口--中路闪" width="800">
+
+### 16 小道--A小闪（跑着左键直接投）
+<img src="../pics/dust2_flash_31.jpg" alt="小道--A小闪" width="800">
+<img src="../pics/dust2_flash_32.jpg" alt="小道--A小闪" width="800">
+
+### 17 Xbox--A小闪（左键直接投）
+<img src="../pics/dust2_flash_33.jpg" alt="Xbox--A小闪" width="800">
+<img src="../pics/dust2_flash_34.jpg" alt="Xbox--A小闪" width="800">
+
+### 18 A小凹槽--A小楼梯闪（双键直接投）
+<img src="../pics/dust2_flash_35.jpg" alt="A小凹槽--A小楼梯闪" width="800">
+<img src="../pics/dust2_flash_36.jpg" alt="A小凹槽--A小楼梯闪" width="800">
+
+### 19 A小楼梯--A包点闪（左键直接投）
+<img src="../pics/dust2_flash_37.jpg" alt="A小楼梯--A包点闪" width="800">
+<img src="../pics/dust2_flash_38.jpg" alt="A小楼梯--A包点闪" width="800">
+
+### 20 A小拐点--A包点闪（左键跳投）
+<img src="../pics/dust2_flash_39.jpg" alt="A小拐点--A包点闪" width="800">
+<img src="../pics/dust2_flash_40.jpg" alt="A小拐点--A包点闪" width="800">

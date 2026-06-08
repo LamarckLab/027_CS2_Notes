@@ -80,8 +80,15 @@
 <img src="../pics/dust2_smoke_47.jpg" alt="A门--A小烟" width="800">
 <img src="../pics/dust2_smoke_48.jpg" alt="A门--A小烟" width="800">
 
+### 17 A小箱子--A小过点烟（左键直接投）
+<img src="../pics/dust2_smoke_49.jpg" alt="A小箱子--A小过点烟" width="800">
+<img src="../pics/dust2_smoke_50.jpg" alt="A小箱子--A小过点烟" width="800">
+<img src="../pics/dust2_smoke_51.jpg" alt="A小箱子--A小过点烟" width="800">
 
-
+### 18 A小箱子--A大过点烟（左键跳投）
+<img src="../pics/dust2_smoke_52.jpg" alt="A小箱子--A大过点烟" width="800">
+<img src="../pics/dust2_smoke_53.jpg" alt="A小箱子--A大过点烟" width="800">
+<img src="../pics/dust2_smoke_54.jpg" alt="A小箱子--A大过点烟" width="800">
 
 
 
