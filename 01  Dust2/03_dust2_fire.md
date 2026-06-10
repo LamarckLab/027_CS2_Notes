@@ -34,3 +34,13 @@
 <img src="Pictures/dust2_fire_19.jpg" alt="A小楼梯--A包点火" width="800">
 <img src="Pictures/dust2_fire_20.jpg" alt="A小楼梯--A包点火" width="800">
 <img src="Pictures/dust2_fire_21.jpg" alt="A小楼梯--A包点火" width="800">
+
+### 07 Xbox--中路凹槽火（左键直接投）
+<img src="Pictures/dust2_fire_22.jpg" alt="Xbox--中路凹槽火" width="800">
+<img src="Pictures/dust2_fire_23.jpg" alt="Xbox--中路凹槽火" width="800">
+<img src="Pictures/dust2_fire_24.jpg" alt="Xbox--中路凹槽火" width="800">
+
+### 07 B1--中路凹槽火（左键直接投）
+<img src="Pictures/dust2_fire_25.jpg" alt="B1--中路凹槽火" width="800">
+<img src="Pictures/dust2_fire_26.jpg" alt="B1--中路凹槽火" width="800">
+<img src="Pictures/dust2_fire_27.jpg" alt="B1--中路凹槽火" width="800">

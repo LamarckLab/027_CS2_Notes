@@ -79,3 +79,15 @@
 ### 20 A小拐点--A包点闪（左键跳投）
 <img src="Pictures/dust2_flash_39.jpg" alt="A小拐点--A包点闪" width="800">
 <img src="Pictures/dust2_flash_40.jpg" alt="A小拐点--A包点闪" width="800">
+
+### 21 A小--A小自助闪（左键直接投）
+<img src="Pictures/dust2_flash_41.jpg" alt="A小--A小自助闪" width="800">
+<img src="Pictures/dust2_flash_42.jpg" alt="A小--A小自助闪" width="800">
+
+### 22 A包狙位--A小闪（双键直接投）
+<img src="Pictures/dust2_flash_43.jpg" alt="A包狙位--A小闪" width="800">
+<img src="Pictures/dust2_flash_44.jpg" alt="A包狙位--A小闪" width="800">
+
+### 23 中门凹槽--沙地闪（双键直接投）
+<img src="Pictures/dust2_flash_45.jpg" alt="中门凹槽--沙地闪" width="800">
+<img src="Pictures/dust2_flash_46.jpg" alt="中门凹槽--沙地闪" width="800">
