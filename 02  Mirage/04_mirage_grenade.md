@@ -1,3 +1,5 @@
+[← 返回首页](../README.md)
+
 # Mirage Grenade
 
 ### 01 A包点--A1雷（走一步左键直接投）

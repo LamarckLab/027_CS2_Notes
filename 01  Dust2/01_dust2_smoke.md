@@ -1,3 +1,5 @@
+[← 返回首页](../README.md)
+
 # Dust2 Smoke
 
 ### 01 匪家--Xbox烟（左键跳投）
