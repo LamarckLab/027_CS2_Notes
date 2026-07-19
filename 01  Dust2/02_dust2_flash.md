@@ -10,9 +10,9 @@
 <img src="Pictures/flash_pics/dust2_flash_03.jpg" alt="警家--A大反清闪" width="800">
 <img src="Pictures/flash_pics/dust2_flash_04.jpg" alt="警家--A大反清闪" width="800">
 
-### 03 A大--A门自助闪（左键跳投）
-<img src="Pictures/flash_pics/dust2_flash_05.jpg" alt="A大--A门自助闪" width="800">
-<img src="Pictures/flash_pics/dust2_flash_06.jpg" alt="A大--A门自助闪" width="800">
+### 03 A大--A门自助闪-1（左键跳投）
+<img src="Pictures/flash_pics/dust2_flash_05.jpg" alt="A大--A门自助闪-1" width="800">
+<img src="Pictures/flash_pics/dust2_flash_06.jpg" alt="A大--A门自助闪-1" width="800">
 
 ### 04 警家电梯位--A门闪（1分49秒出手，左键跳投）
 <img src="Pictures/flash_pics/dust2_flash_07.jpg" alt="警家电梯位--A门闪" width="800">
@@ -90,6 +90,18 @@
 <img src="Pictures/flash_pics/dust2_flash_43.jpg" alt="A包狙位--A小闪" width="800">
 <img src="Pictures/flash_pics/dust2_flash_44.jpg" alt="A包狙位--A小闪" width="800">
 
-### 23 中门凹槽--沙地闪（双键直接投）
-<img src="Pictures/flash_pics/dust2_flash_45.jpg" alt="中门凹槽--沙地闪" width="800">
-<img src="Pictures/flash_pics/dust2_flash_46.jpg" alt="中门凹槽--沙地闪" width="800">
+### 23 B1--出中路闪（右键跳投）
+<img src="Pictures/flash_pics/dust2_flash_45.jpg" alt="B1--出中路闪" width="800">
+<img src="Pictures/flash_pics/dust2_flash_46.jpg" alt="B1--出中路闪" width="800">
+
+### 24 中门右侧凹槽--沙地闪（双键直接投）
+<img src="Pictures/flash_pics/dust2_flash_47.jpg" alt="中门右侧凹槽--沙地闪" width="800">
+<img src="Pictures/flash_pics/dust2_flash_48.jpg" alt="中门右侧凹槽--沙地闪" width="800">
+
+### 25 A大--A门自助闪-2（左键跳投）
+<img src="Pictures/flash_pics/dust2_flash_49.jpg" alt="A大--A门自助闪-2" width="800">
+<img src="Pictures/flash_pics/dust2_flash_50.jpg" alt="A大--A门自助闪-2" width="800">
+
+### 26 A包点--A大闪（左键直接投）
+<img src="Pictures/flash_pics/dust2_flash_51.jpg" alt="A包点--A大闪" width="800">
+<img src="Pictures/flash_pics/dust2_flash_52.jpg" alt="A包点--A大闪" width="800">
