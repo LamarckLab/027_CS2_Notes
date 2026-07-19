@@ -15,12 +15,12 @@
 
 ## 地图
 
-| 地图 | 报点图 | 道具瞄点 |
-|------|:---:|:---|
-| [Dust2](./01%20%20Dust2) | [CN](./01%20%20Dust2/05_dust2_map_CN.jpg) / [EN](./01%20%20Dust2/06_dust2_map_EN.jpg) | [smoke](./01%20%20Dust2/01_dust2_smoke.md) · [flash](./01%20%20Dust2/02_dust2_flash.md) · [fire](./01%20%20Dust2/03_dust2_fire.md) · [grenade](./01%20%20Dust2/04_dust2_grenade.md) |
-| [Mirage](./02%20%20Mirage) | [CN](./02%20%20Mirage/05_mirage_map_CN.jpg) / [EN](./02%20%20Mirage/06_mirage_map_EN.jpg) | [smoke](./02%20%20Mirage/01_mirage_smoke.md) · [flash](./02%20%20Mirage/02_mirage_flash.md) · [fire](./02%20%20Mirage/03_mirage_fire.md) · [grenade](./02%20%20Mirage/04_mirage_grenade.md) |
-| [Inferno](./03%20%20Inferno) | [CN](./03%20%20Inferno/05_inferno_map_CN.jpg) / [EN](./03%20%20Inferno/06_inferno_map_EN.jpg) | 🚧 待补充 |
-| [Ancient](./04%20%20Ancient) | 🚧 | 🚧 待补充 |
-| [Nuke](./05%20%20Nuke) | 🚧 | 🚧 待补充 |
-| [Overpass](./06%20%20Overpass) | 🚧 | 🚧 待补充 |
-| [Train](./07%20%20Train) | 🚧 | 🚧 待补充 |
+| 地图                           |                                            报点图                                             | 道具瞄点                                                                                                                                                                                    |
+| ------------------------------ | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Dust2](./01%20%20Dust2)       |     [CN](./01%20%20Dust2/05_dust2_map_CN.jpg) / [EN](./01%20%20Dust2/06_dust2_map_EN.jpg)     | [smoke](./01%20%20Dust2/01_dust2_smoke.md) · [flash](./01%20%20Dust2/02_dust2_flash.md) · [fire](./01%20%20Dust2/03_dust2_fire.md) · [grenade](./01%20%20Dust2/04_dust2_grenade.md)         |
+| [Mirage](./02%20%20Mirage)     |   [CN](./02%20%20Mirage/05_mirage_map_CN.jpg) / [EN](./02%20%20Mirage/06_mirage_map_EN.jpg)   | [smoke](./02%20%20Mirage/01_mirage_smoke.md) · [flash](./02%20%20Mirage/02_mirage_flash.md) · [fire](./02%20%20Mirage/03_mirage_fire.md) · [grenade](./02%20%20Mirage/04_mirage_grenade.md) |
+| [Inferno](./03%20%20Inferno)   | [CN](./03%20%20Inferno/05_inferno_map_CN.jpg) / [EN](./03%20%20Inferno/06_inferno_map_EN.jpg) | 🚧 待补充                                                                                                                                                                                    |
+| [Ancient](./04%20%20Ancient)   |                                               🚧                                               | 🚧 待补充                                                                                                                                                                                    |
+| [Nuke](./05%20%20Nuke)         |                                               🚧                                               | 🚧 待补充                                                                                                                                                                                    |
+| [Overpass](./06%20%20Overpass) |                                               🚧                                               | 🚧 待补充                                                                                                                                                                                    |
+| [Train](./07%20%20Train)       |                                               🚧                                               | 🚧 待补充                                                                                                                                                                                    |
