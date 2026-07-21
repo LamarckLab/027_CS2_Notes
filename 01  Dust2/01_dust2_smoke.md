@@ -92,5 +92,27 @@
 <img src="Pictures/smoke_pics/dust2_smoke_53.jpg" alt="A小箱子--A大过点烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_54.jpg" alt="A小箱子--A大过点烟" width="800">
 
+### 19 后花园--B门快烟（跑着左键跳投）
+<img src="Pictures/smoke_pics/dust2_smoke_55.jpg" alt="后花园--B门快烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_56.jpg" alt="后花园--B门快烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_57.jpg" alt="后花园--B门快烟" width="800">
 
+### 20 B门外箱子--B门回防烟（左键直接投）
+<img src="Pictures/smoke_pics/dust2_smoke_58.jpg" alt="B门外箱子--B门回防烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_59.jpg" alt="B门外箱子--B门回防烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_60.jpg" alt="B门外箱子--B门回防烟" width="800">
 
+### 21 中远L位--A大假打烟（蹲下瞄，站起左键跳投）
+<img src="Pictures/smoke_pics/dust2_smoke_61.jpg" alt="中远L位--A大假打烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_62.jpg" alt="中远L位--A大假打烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_63.jpg" alt="中远L位--A大假打烟" width="800">
+
+### 22 A大包点--A大单向烟（左键直接投）
+<img src="Pictures/smoke_pics/dust2_smoke_64.jpg" alt="A大包点--A大单向烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_65.jpg" alt="A大包点--A大单向烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_66.jpg" alt="A大包点--A大单向烟" width="800">
+
+### 23 Xbox--B门假打烟（左键跳投）
+<img src="Pictures/smoke_pics/dust2_smoke_67.jpg" alt="Xbox--B门假打烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_68.jpg" alt="Xbox--B门假打烟" width="800">
+<img src="Pictures/smoke_pics/dust2_smoke_69.jpg" alt="Xbox--B门假打烟" width="800">

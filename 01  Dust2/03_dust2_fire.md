@@ -46,3 +46,13 @@
 <img src="Pictures/fire_pics/dust2_fire_25.jpg" alt="B1--中路凹槽火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_26.jpg" alt="B1--中路凹槽火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_27.jpg" alt="B1--中路凹槽火" width="800">
+
+### 10 狗洞--B包满烧火（左键跳投）
+<img src="Pictures/fire_pics/dust2_fire_28.jpg" alt="狗洞--B包满烧火" width="800">
+<img src="Pictures/fire_pics/dust2_fire_29.jpg" alt="狗洞--B包满烧火" width="800">
+<img src="Pictures/fire_pics/dust2_fire_30.jpg" alt="狗洞--B包满烧火" width="800">
+
+### 11 警家--A包满烧火（双键跳投）
+<img src="Pictures/fire_pics/dust2_fire_31.jpg" alt="警家--A包满烧火" width="800">
+<img src="Pictures/fire_pics/dust2_fire_32.jpg" alt="警家--A包满烧火" width="800">
+<img src="Pictures/fire_pics/dust2_fire_33.jpg" alt="警家--A包满烧火" width="800">
