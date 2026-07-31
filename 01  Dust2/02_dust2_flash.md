@@ -38,7 +38,7 @@
 <img src="Pictures/flash_pics/dust2_flash_17.jpg" alt="头皮位--A小闪" width="800">
 <img src="Pictures/flash_pics/dust2_flash_18.jpg" alt="头皮位--A小闪" width="800">
 
-### 10 沙地--中路闪（W+左键跳投）
+### 10 沙地--中路闪（按住W，左键跳投）
 <img src="Pictures/flash_pics/dust2_flash_19.jpg" alt="沙地--中路闪" width="800">
 <img src="Pictures/flash_pics/dust2_flash_20.jpg" alt="沙地--中路闪" width="800">
 
@@ -130,7 +130,7 @@
 <img src="Pictures/flash_pics/dust2_flash_63.jpg" alt="匪口黄车--A门出门闪-1" width="800">
 <img src="Pictures/flash_pics/dust2_flash_64.jpg" alt="匪口黄车--A门出门闪-1" width="800">
 
-### 33 匪口黄车--A门出门闪-2（W、D + 左键跳投）
+### 33 匪口黄车--A门出门闪-2（按住 W + D，左键跳投）
 <img src="Pictures/flash_pics/dust2_flash_65.jpg" alt="匪口黄车--A门出门闪-2" width="800">
 <img src="Pictures/flash_pics/dust2_flash_66.jpg" alt="匪口黄车--A门出门闪-2" width="800">
 
@@ -138,7 +138,7 @@
 <img src="Pictures/flash_pics/dust2_flash_67.jpg" alt="B2--B包闪-2" width="800">
 <img src="Pictures/flash_pics/dust2_flash_68.jpg" alt="B2--B包闪-2" width="800">
 
-### 35 A包点--A大闪-2（左键直接投）
+### 35 A包点--A大闪-2（双键跳投）
 <img src="Pictures/flash_pics/dust2_flash_69.jpg" alt="A包点--A大闪-2" width="800">
 <img src="Pictures/flash_pics/dust2_flash_70.jpg" alt="A包点--A大闪-2" width="800">
 

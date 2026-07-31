@@ -2,7 +2,7 @@
 
 # Dust2 Fire
 
-### 01 暗道--A小阻断火（跑一步，左键投）
+### 01 暗道--A小阻断火（跑一步，左键直接投）
 <img src="Pictures/fire_pics/dust2_fire_01.jpg" alt="暗道--A小阻断火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_02.jpg" alt="暗道--A小阻断火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_03.jpg" alt="暗道--A小阻断火" width="800">
@@ -17,7 +17,7 @@
 <img src="Pictures/fire_pics/dust2_fire_08.jpg" alt="中门凹槽--A小火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_09.jpg" alt="中门凹槽--A小火" width="800">
 
-### 04 A门外--蓝车满烧火（静步+W+跳投）
+### 04 A门外--蓝车满烧火（静步 + W + 跳投）
 <img src="Pictures/fire_pics/dust2_fire_10.jpg" alt="A门外--蓝车满烧火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_11.jpg" alt="A门外--蓝车满烧火" width="800">
 <img src="Pictures/fire_pics/dust2_fire_12.jpg" alt="A门外--蓝车满烧火" width="800">

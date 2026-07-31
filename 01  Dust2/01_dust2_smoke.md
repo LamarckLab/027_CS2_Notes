@@ -32,7 +32,7 @@
 <img src="Pictures/smoke_pics/dust2_smoke_17.jpg" alt="后花园--警家烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_18.jpg" alt="后花园--警家烟" width="800">
 
-### 07 A门--B门假打烟（按住A和W，左键跳投）
+### 07 A门--B门假打烟（按住A + W，左键跳投）
 <img src="Pictures/smoke_pics/dust2_smoke_19.jpg" alt="A门--B门假打烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_20.jpg" alt="A门--B门假打烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_21.jpg" alt="A门--B门假打烟" width="800">
@@ -47,7 +47,7 @@
 <img src="Pictures/smoke_pics/dust2_smoke_26.jpg" alt="Xbox--中门瀑布烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_27.jpg" alt="Xbox--中门瀑布烟" width="800">
 
-### 10 警家电梯位--A门快烟（蹲下描点，蹲下跳投）
+### 10 警家电梯位--A门快烟（蹲下瞄点，蹲着跳投）
 <img src="Pictures/smoke_pics/dust2_smoke_28.jpg" alt="警家电梯位--A门快烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_29.jpg" alt="警家电梯位--A门快烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_30.jpg" alt="警家电梯位--A门快烟" width="800">
@@ -72,7 +72,7 @@
 <img src="Pictures/smoke_pics/dust2_smoke_41.jpg" alt="后花园--B门烟-2" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_42.jpg" alt="后花园--B门烟-2" width="800">
 
-### 15 B通--B门烟（走半步跳投）
+### 15 B通--B门烟（走半步左键跳投）
 <img src="Pictures/smoke_pics/dust2_smoke_43.jpg" alt="B通--B门烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_44.jpg" alt="B通--B门烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_45.jpg" alt="B通--B门烟" width="800">
@@ -102,7 +102,7 @@
 <img src="Pictures/smoke_pics/dust2_smoke_59.jpg" alt="B门外箱子--B门回防烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_60.jpg" alt="B门外箱子--B门回防烟" width="800">
 
-### 21 中远L位--A大假打烟（蹲下瞄，站起左键跳投）
+### 21 中远L位--A大假打烟（蹲下瞄点，站起来左键跳投）
 <img src="Pictures/smoke_pics/dust2_smoke_61.jpg" alt="中远L位--A大假打烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_62.jpg" alt="中远L位--A大假打烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_63.jpg" alt="中远L位--A大假打烟" width="800">
@@ -112,7 +112,7 @@
 <img src="Pictures/smoke_pics/dust2_smoke_65.jpg" alt="A大包点--A大单向烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_66.jpg" alt="A大包点--A大单向烟" width="800">
 
-### 23 Xbox--B门假打烟（左键跳投）
+### 23 Xbox--B门假打烟（蹲下瞄点，站起来左键跳投）
 <img src="Pictures/smoke_pics/dust2_smoke_67.jpg" alt="Xbox--B门假打烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_68.jpg" alt="Xbox--B门假打烟" width="800">
 <img src="Pictures/smoke_pics/dust2_smoke_69.jpg" alt="Xbox--B门假打烟" width="800">
