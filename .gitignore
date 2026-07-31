@@ -1,6 +1,4 @@
-# Teaching videos are kept local only — too large for Git (GitHub caps files
-# at 100 MB and bloats history with binaries). Share them via a cloud drive or
-# a video platform and link from the .md notes instead.
+# Teaching videos are too large for Git — keep them local only.
 *.mp4
 *.MP4
 *.mov
